@@ -1,6 +1,5 @@
 # wedontsupportie
 Repo for all the great things you can do without IE in your life.
-<<<<<<< HEAD
 =======
 
 - https://rallyinteractive.com/#snkrs
@@ -19,9 +18,6 @@ Syntax highlighting: https://github.com/metachris/vue-highlightjs
 ## Inspiration
 - [Stripe](https://stripe.com/en-dk)
 - 30 seconds of knowledge layout with split markup editors.
-
->>>>>>> b86fff669f71210f85dad03ae44b9492896cce0c
-
 - https://rallyinteractive.com/#snkrs
 - https://ifthisthendominos.com/browse
 
