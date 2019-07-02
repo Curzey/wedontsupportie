@@ -1,6 +1,6 @@
 # wedontsupportie
-Repo for all the great things you can do without IE in your life.
 =======
+Repo for all the great things you can do without IE in your life.
 
 - https://rallyinteractive.com/#snkrs
 - https://ifthisthendominos.com/browse
