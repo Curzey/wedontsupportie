@@ -1,29 +1,19 @@
 # wedontsupportie
+Repo for all the great things you can do without IE in your life.
 
-## Project setup
-```
-npm install
-```
+- https://rallyinteractive.com/#snkrs
+- https://ifthisthendominos.com/browse
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Syntax highlighting: https://github.com/metachris/vue-highlightjs
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Ideas
+- **Full screen editor**
+  - Folder structure, editor view, (JS: console, CSS: browser window - this "window" should be resizable).
+- **Category(CSS/JS) switcher**
+  - Skewed code editors, straight on hover/click. Description next to code editor.
+*(both has global search fields)*
 
-### Run your tests
-```
-npm run test
-```
+## Inspiration
+- [Stripe](https://stripe.com/en-dk)
+- 30 seconds of knowledge layout with split markup editors.
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
