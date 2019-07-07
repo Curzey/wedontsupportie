@@ -2,14 +2,22 @@
 	"name": "wedontsupportie",
 	"version": "0.1.0",
 	"private": true,
-	"author": {
-		"name": "Carsten Andersen",
-		"email": "carstena1994@gmail.com",
-		"url": "https://github.com/Curzey"
-	},
+	"author": "Carsten Andersen <carstena1994@gmail.com> (https://github.com/Curzey)",
 	"contributors": [
 		"Tobias Mønster Madsen <madsenmm@hotmail.com> (https://github.com/Madsenmm)",
 		"Jesper Pedersen <jpe@hotmail.com> (https://github.com/jpe)"
+	],
+	"contributors": [
+		{
+			"name": "Tobias Mønster Madsen",
+			"email": "madsenmm@hotmail.com",
+			"url": "https://github.com/Madsenmm"
+		},
+		{
+			"name": "Jesper Pedersen",
+			"email": "jpe@hotmail.com",
+			"url": "https://github.com/jpe"
+		},
 	],
 	"scripts": {
 		"serve": "vue-cli-service serve",
