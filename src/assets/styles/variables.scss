@@ -1,0 +1,31 @@
+
+:root {
+    /*
+    ** Colors
+    */
+
+    --background: #292929;
+    --background-darker: #212121;
+    --background-lighter: #2e2e2e;
+    
+    --primary-text: #rgb(255, 255, 255);
+    --secondary-text: rgba(255, 255, 255, .7);
+    --hint-text: rgba(255, 255, 255, .5);
+    
+    --primary-color: #3E50B4;
+    --color-accent: #FF3F80;
+
+    /*
+    ** Typography
+    */
+
+    --code-font: 'Roboto Mono', monospace;
+    --normal-font: 'Roboto', sans-serif;
+
+    /*
+    ** Layout
+    */
+
+    --box-padding: 2rem;
+
+}
