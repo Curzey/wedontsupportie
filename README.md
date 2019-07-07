@@ -1,7 +1,7 @@
 # wedontsupportie
 Repo for all the great things you can do without IE in your life.
 
-Progress will be structured here: [wedontsupportie Github Project tasks](https://github.com/users/Curzey/projects/1)
+Progress will be structured here: [wedontsupportie Github Project tasks](https://github.com/users/Curzey/projects/1).
 
 ## Ideas
 - **Full screen editor**
