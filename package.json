@@ -9,7 +9,7 @@
 	},
 	"contributors": [
 		"Tobias Mønster Madsen <madsenmm@hotmail.com> (https://github.com/Madsenmm)",
-		"Jesper Pedersen <jpe@hotmail.com> (https://github.com/JPE)"
+		"Jesper Pedersen <jpe@hotmail.com> (https://github.com/jpe)"
 	],
 	"scripts": {
 		"serve": "vue-cli-service serve",
