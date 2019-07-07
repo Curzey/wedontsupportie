@@ -1,3 +1,6 @@
 module.exports = {
-    publicPath: 'wedontsupportie',
-  }
+	publicPath: 'wedontsupportie',
+	devServer: {
+		open: 'Google Chrome'
+	}
+}
