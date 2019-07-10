@@ -1,6 +1,6 @@
 ![GitHub issues](https://img.shields.io/github/issues/curzey/wedontsupportie.svg?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/curzey/wedontsupportie.svg?style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/curzey/wedontsupportie.svg?color=%234fc08d&logo=vue.js&style=flat-square)
+[![GitHub top language](https://img.shields.io/github/languages/top/curzey/wedontsupportie.svg?color=%234fc08d&logo=vue.js&style=flat-square)]
 
 # wedontsupportie
 Repo for all the great things you can do without IE in your life.
