@@ -1,4 +1,5 @@
 ![GitHub issues](https://img.shields.io/github/issues/Curzey/wedontsupportie.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/Curzey/wedontsupportie.svg)
 
 # wedontsupportie
 Repo for all the great things you can do without IE in your life.
