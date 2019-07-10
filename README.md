@@ -1,3 +1,5 @@
+![GitHub issues](https://img.shields.io/github/issues/Curzey/wedontsupportie.svg)
+
 # wedontsupportie
 Repo for all the great things you can do without IE in your life.
 
